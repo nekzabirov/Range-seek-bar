@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="RangeSeekBar">
+        <attr name="btn_color" format="color" />
+        <attr name="line_color" format="color" />
+        <attr name="selected_color" format="color" />
+        <attr name="text_color" format="color" />
+        <attr name="min" format="float" />
+        <attr name="max" format="float" />
+        <attr name="step" format="float" />
+    </declare-styleable>
+</resources>
